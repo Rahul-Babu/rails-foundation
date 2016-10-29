@@ -3,9 +3,9 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
-gem 'puma'
-gem 'foundation-rails'
-gem 'kaminari'
+gem 'puma', '2.15.3'
+gem 'foundation-rails', '5.5.3.2'
+gem 'kaminari', '0.16.3'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.15'
 # Use SCSS for stylesheets
